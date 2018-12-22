@@ -17,7 +17,7 @@ logger* logger::GetInstance()
 
 	return m_instance;
 }
-
+//주석 테스트
 //[복사해갈거](함수 인자) {내용}; 가독성떨어짐
 //[&]() {};
 //[]() {};
